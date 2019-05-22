@@ -20,5 +20,5 @@ setup(
         'Topic :: Scientific/Engineering',
     ],
     license='GNU General Public License v3',
-    data_files=[('share/doc/pymath3d/', ['README.md', 'COPYING'])]
+    # data_files=[('share/doc/pymath3d/', ['README.md', 'COPYING'])]
 )
